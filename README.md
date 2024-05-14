@@ -1,8 +1,13 @@
 ### Hi world 👋
 
-I am Yair, I'm Mexican and I am from Chetumal, Quintana Roo. I' am a web programmer and I have knowledge of HTML, CSS, Vanilla JS, VueJS, PHP, Laravel, SQL
-##About me
+I am Yair, I'm Mexican and I am from Chetumal, Quintana Roo.
+## About me
+- I studied Network Enginier in the Universidad Autonoma de Quintana Rooo.
+- I am a web programmer and I have knowledge of HTML, CSS, Vanilla JS, VueJS, PHP, Laravel, SQL
+- I am currently working remotly in CDG Consultores.
 - I like anime and cartoon, My favorite cartoon is Avatar: The Last Airbender.
+- I love doing crossfit and karate, in general I like doing any sport.
+- I am currently learning English 😄
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@yairMatos/30-nites-of-code)  
