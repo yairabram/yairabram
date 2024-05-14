@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi world 👋
 
+I am Yair, I'm Mexican and I am from Chetumal, Quintana Roo. I' am a web programmer and I have knowledge of HTML, CSS, Vanilla JS, VueJS, PHP, Laravel, SQL
+##About me
+- I like anime and cartoon, My favorite cartoon is Avatar: The Last Airbender.
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@yairMatos/30-nites-of-code)  
+  ![@yairMatos #30NitesOfCode](https://www.codedex.io/api/petStatus?user=yairMatos)
+  
 <!--
 **yairabram/yairabram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
